@@ -1,6 +1,6 @@
-## Dear developer and reader,
+### Dear developer and reader,
 
-I am Jérémy Demange. I am a specialist in data mining and analysis.
+I am **Jérémy Demange**. I am a **specialist in data mining and analysis**.
 
 - 🔭 I’m currently working on ScrapFast, a simple and powerful scraping tool.
 - 🌱 I’m currently learning network and the dark side of the Web.
