@@ -1,4 +1,4 @@
-### Hi there 👋
+## Dear developer and reader,
 
 I am Jérémy Demange. I am a specialist in data mining and analysis.
 
